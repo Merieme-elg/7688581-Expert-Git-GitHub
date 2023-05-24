@@ -22,6 +22,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 ```
 A définir
+changement pour avoir un conflit
 ```
 
 
